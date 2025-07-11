@@ -7,3 +7,4 @@ mediapipe==0.10.21
 pandas
 numpy
 Pillow
+streamlit-autorefresh==0.0.4
